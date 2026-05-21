@@ -1,0 +1,6 @@
+{
+    global:
+        n4m_*;
+    local:
+        *;
+};
